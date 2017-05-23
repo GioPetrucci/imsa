@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-arq",
+  "version": "1.0.0",
+  "description": "Pagina web IMSA",
+  "main": "arq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Diaz Hernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.11",
+    "css-mqpacker": "^6.0.0",
+    "csswring": "^6.0.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "lost": "^8.0.0",
+    "postcss-cssnext": "^2.11.0",
+    "postcss-import": "^10.0.0",
+    "postcss-mixins": "^6.0.0"
+  }
+}
